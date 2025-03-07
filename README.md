@@ -2,7 +2,7 @@
 
 Welcome to my Financial Analysis Portfolio! This repository serves as a collection of projects and exercises showcasing my skills in financial analysis, data visualization, and strategic decision-making. It includes work exclusively from the Udemy course **["The Complete Financial Analyst Training and Investing Course"](https://www.udemy.com/course/the-complete-financial-analyst-training-and-investing-course/?srsltid=AfmBOoqnLt8arKXkMuY1Z63FyWAeIsW4Ksl8W3Jb7lc4ndQW3q-tZT4X)**.
 
-## Click on this to see an overview of the entire Portfolio:
+## Click on this to see an overview of the entire portfolio:
 **["Overview of the Finance Portfolio"](https://pleasant-trollius-36d.notion.site/Devansh-Devrani-Financial-Analysis-Portfolio-17e514cf88a680b58cc6ea535bbd14ca?pvs=4)**
 
 ## Objectives
