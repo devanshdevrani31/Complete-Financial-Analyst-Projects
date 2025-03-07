@@ -10,10 +10,10 @@ Welcome to my Financial Analysis Portfolio! This repository serves as a collecti
 ## Repository Structure
 ```
 Portfolio/
-├── Exercise-1/
+├── Topic-1(GDP)/
 │   ├── Data.xlsx         # Raw data for the analysis
-│   ├── Analysis.xlsx     # Final analysis and outputs
-│   ├── README.md         # Details about the exercise
+│   ├── Images
+│   ├── Notion Link(or text)         # Details about the exercise
 ├── Exercise-2/
 │   ├── Data.xlsx
 │   ├── Analysis.xlsx
